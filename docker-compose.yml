@@ -2,7 +2,7 @@ version: "3"
 services:
   web:
     # replace balaganur/repo:tag with your name and image details
-    image: balaganur/node-web-app
+    image: balaganurrakesh/repo1
     deploy:
       replicas: 5
       resources:
